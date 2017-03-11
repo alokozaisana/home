@@ -1,0 +1,20 @@
+body
+{
+	background-color:pink;
+	font-size: 20px;
+	font-family:fantasy;
+	margin: 20px;
+	padding:40px;
+}
+dt
+{
+	background-color:white;
+	border: solid black;
+}
+dd
+{
+	font-family: sans-serif;
+	text-align: auto;
+	line-height: 30px
+	
+}
